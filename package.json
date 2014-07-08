@@ -1,6 +1,6 @@
 {
   "name": "mmMySiteReport",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Show information about my page",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mmmuller/mmMySiteReport",
   "dependencies": {
     "google": "^0.3.3"
+  },
+  "bin" : {
+  "mmMySiteReport" : "index.js"
   }
 }
