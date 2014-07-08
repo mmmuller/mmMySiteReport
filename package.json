@@ -1,0 +1,19 @@
+{
+  "name": "mmMySiteReport",
+  "version": "0.0.0",
+  "description": "Show information about my page",
+  "main": "index.js",
+  "scripts": {
+    "test": "mmMySiteReport"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmmuller/mmMySiteReport.git"
+  },
+  "author": "Mikołaj Muller <muller@icpnet.pl>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmmuller/mmMySiteReport/issues"
+  },
+  "homepage": "https://github.com/mmmuller/mmMySiteReport"
+}
