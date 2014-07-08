@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmmuller/mmMySiteReport/issues"
   },
-  "homepage": "https://github.com/mmmuller/mmMySiteReport"
+  "homepage": "https://github.com/mmmuller/mmMySiteReport",
+  "dependencies": {
+    "google": "^0.3.3"
+  }
 }
